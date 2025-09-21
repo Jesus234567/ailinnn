@@ -50,7 +50,7 @@ var lyricsData = [
   { text: "BENDITO FEBRERO", time: 173 },
   { text: "BENDITO 2025", time: 176 },
   { text: "BENDITA TÚ", time: 179 },
-  { text: "PORQUE PERMITIRME ESTAR AQUÍ, HACIENDO ESTO", time: 182 },
+  { text: "POR PERMITIRME ESTAR AQUÍ, HACIENDO ESTO", time: 182 },
   { text: "PORQUE LO MEJOR DE ESTA VIDA", time: 185 },
   { text: "HAS SIDO TÚ", time: 169 },
   { text: "TE AMO", time: 190},
