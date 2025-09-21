@@ -52,7 +52,7 @@ var lyricsData = [
   { text: "BENDITA TÚ", time: 179 },
   { text: "POR PERMITIRME ESTAR AQUÍ, HACIENDO ESTO", time: 182 },
   { text: "PORQUE LO MEJOR DE ESTA VIDA", time: 185 },
-  { text: "HAS SIDO TÚ", time: 169 },
+  { text: "HAS SIDO TÚ", time: 188 },
   { text: "TE AMO", time: 190},
   { text: "DOY GRACIAS A DIOSITO POR HABERME PUESTO EN TU CAMINO", time:193},
   { text: "Y ESTE ES UN PEQUEÑO DETALLE QUE QUERÍA DARTE", time: 197},
